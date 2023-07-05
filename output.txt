@@ -1,0 +1,4326 @@
+
+
+
+Trading Code: 1JANATAMF
+LTP: 6.1
+High: 6.1
+Low: 6.1
+Closep: 6.1
+YCP: 6.1
+Change: 0.0
+Trade: 8
+Volume: 14488
+Value (mn): 0.088
+=====================================================
+Trading Code: 1STPRIMFMF
+LTP: 15.3
+High: 15.6
+Low: 15.0
+Closep: 15.3
+YCP: 15.3
+Change: 0.0
+Trade: 43
+Volume: 50019
+Value (mn): 0.764
+=====================================================
+Trading Code: AAMRANET
+LTP: 67.5
+High: 69.1
+Low: 67.3
+Closep: 67.5
+YCP: 68.0
+Change: -0.5
+Trade: 1119
+Volume: 806378
+Value (mn): 54.966
+=====================================================
+Trading Code: AAMRATECH
+LTP: 36.1
+High: 36.6
+Low: 35.8
+Closep: 36.1
+YCP: 36.3
+Change: -0.2
+Trade: 257
+Volume: 259842
+Value (mn): 9.406
+=====================================================
+Trading Code: ABB1STMF
+LTP: 5.2
+High: 5.2
+Low: 5.2
+Closep: 5.2
+YCP: 5.2
+Change: 0.0
+Trade: 3
+Volume: 1500
+Value (mn): 0.008
+=====================================================
+Trading Code: ABBANK
+LTP: 9.7
+High: 9.7
+Low: 9.7
+Closep: 9.7
+YCP: 9.7
+Change: 0.0
+Trade: 12
+Volume: 10353
+Value (mn): 0.1
+=====================================================
+Trading Code: ACFL
+LTP: 26.5
+High: 26.5
+Low: 26.5
+Closep: 26.5
+YCP: 26.5
+Change: 0.0
+Trade: 8
+Volume: 1370
+Value (mn): 0.036
+=====================================================
+Trading Code: ACI
+LTP: 260.2
+High: 260.2
+Low: 260.2
+Closep: 260.2
+YCP: 260.2
+Change: 0.0
+Trade: 6
+Volume: 132
+Value (mn): 0.034
+=====================================================
+Trading Code: ACIFORMULA
+LTP: 155.0
+High: 155.9
+Low: 155.0
+Closep: 155.0
+YCP: 155.3
+Change: -0.3
+Trade: 292
+Volume: 76017
+Value (mn): 11.787
+=====================================================
+Trading Code: ACMELAB
+LTP: 85.2
+High: 85.4
+Low: 85.1
+Closep: 85.2
+YCP: 85.2
+Change: 0.0
+Trade: 295
+Volume: 105822
+Value (mn): 9.015
+=====================================================
+Trading Code: ACMEPL
+LTP: 35.4
+High: 35.4
+Low: 35.4
+Closep: 35.4
+YCP: 35.4
+Change: 0.0
+Trade: 15
+Volume: 11061
+Value (mn): 0.392
+=====================================================
+Trading Code: ACTIVEFINE
+LTP: 19.3
+High: 19.3
+Low: 19.3
+Closep: 19.3
+YCP: 19.3
+Change: 0.0
+Trade: 27
+Volume: 27282
+Value (mn): 0.527
+=====================================================
+Trading Code: ADNTEL
+LTP: 135.2
+High: 138.9
+Low: 130.1
+Closep: 135.2
+YCP: 133.6
+Change: 1.6
+Trade: 1720
+Volume: 871558
+Value (mn): 118.882
+=====================================================
+Trading Code: ADVENT
+LTP: 26.7
+High: 27.2
+Low: 26.5
+Closep: 26.7
+YCP: 26.7
+Change: 0.0
+Trade: 914
+Volume: 1376828
+Value (mn): 36.878
+=====================================================
+Trading Code: AFCAGRO
+LTP: 23.5
+High: 23.5
+Low: 23.5
+Closep: 23.5
+YCP: 23.5
+Change: 0.0
+Trade: 14
+Volume: 16669
+Value (mn): 0.392
+=====================================================
+Trading Code: AFTABAUTO
+LTP: 27.7
+High: 28.0
+Low: 27.5
+Closep: 27.7
+YCP: 27.5
+Change: 0.2
+Trade: 256
+Volume: 249133
+Value (mn): 6.907
+=====================================================
+Trading Code: AGNISYSL
+LTP: 28.4
+High: 28.8
+Low: 28.2
+Closep: 28.4
+YCP: 28.3
+Change: 0.1
+Trade: 736
+Volume: 981914
+Value (mn): 27.983
+=====================================================
+Trading Code: AGRANINS
+LTP: 40.1
+High: 40.4
+Low: 39.0
+Closep: 40.1
+YCP: 40.0
+Change: 0.1
+Trade: 149
+Volume: 94570
+Value (mn): 3.778
+=====================================================
+Trading Code: AIBL1STIMF
+LTP: 7.3
+High: 7.3
+Low: 7.3
+Closep: 7.3
+YCP: 7.3
+Change: 0.0
+Trade: 1
+Volume: 25
+Value (mn): 0.0
+=====================================================
+Trading Code: AIL
+LTP: 74.5
+High: 77.9
+Low: 73.7
+Closep: 74.5
+YCP: 76.3
+Change: -1.8
+Trade: 901
+Volume: 434990
+Value (mn): 33.089
+=====================================================
+Trading Code: AL-HAJTEX
+LTP: 174.6
+High: 175.1
+Low: 170.0
+Closep: 174.6
+YCP: 173.3
+Change: 1.3
+Trade: 756
+Volume: 262947
+Value (mn): 45.631
+=====================================================
+Trading Code: ALARABANK
+LTP: 24.0
+High: 24.4
+Low: 23.9
+Closep: 23.9
+YCP: 24.0
+Change: 0.0
+Trade: 19
+Volume: 6976
+Value (mn): 0.167
+=====================================================
+Trading Code: ALIF
+LTP: 14.1
+High: 14.2
+Low: 13.4
+Closep: 14.1
+YCP: 13.4
+Change: 0.7
+Trade: 4038
+Volume: 12096112
+Value (mn): 168.176
+=====================================================
+Trading Code: ALLTEX
+LTP: 20.1
+High: 20.5
+Low: 19.3
+Closep: 20.1
+YCP: 19.2
+Change: 0.9
+Trade: 1010
+Volume: 1156635
+Value (mn): 23.192
+=====================================================
+Trading Code: AMANFEED
+LTP: 33.5
+High: 33.5
+Low: 33.5
+Closep: 33.5
+YCP: 33.5
+Change: 0.0
+Trade: 30
+Volume: 23883
+Value (mn): 0.8
+=====================================================
+Trading Code: AMBEEPHA
+LTP: 529.3
+High: 535.0
+Low: 520.3
+Closep: 529.3
+YCP: 526.1
+Change: 3.2
+Trade: 134
+Volume: 3252
+Value (mn): 1.715
+=====================================================
+Trading Code: AMCL(PRAN)
+LTP: 269.0
+High: 277.0
+Low: 268.2
+Closep: 269.0
+YCP: 273.1
+Change: -4.1
+Trade: 489
+Volume: 63281
+Value (mn): 17.216
+=====================================================
+Trading Code: ANLIMAYARN
+LTP: 37.4
+High: 38.3
+Low: 37.2
+Closep: 37.4
+YCP: 37.0
+Change: 0.4
+Trade: 411
+Volume: 305876
+Value (mn): 11.488
+=====================================================
+Trading Code: ANWARGALV
+LTP: 213.3
+High: 213.3
+Low: 213.3
+Closep: 213.3
+YCP: 213.3
+Change: 0.0
+Trade: 23
+Volume: 1515
+Value (mn): 0.323
+=====================================================
+Trading Code: AOL
+LTP: 36.5
+High: 36.5
+Low: 36.5
+Closep: 36.5
+YCP: 36.5
+Change: 0.0
+Trade: 12
+Volume: 849
+Value (mn): 0.031
+=====================================================
+Trading Code: APEXFOODS
+LTP: 401.7
+High: 408.2
+Low: 400.1
+Closep: 401.7
+YCP: 407.1
+Change: -5.4
+Trade: 1314
+Volume: 81910
+Value (mn): 33.017
+=====================================================
+Trading Code: APEXFOOT
+LTP: 305.8
+High: 309.9
+Low: 305.1
+Closep: 305.8
+YCP: 307.5
+Change: -1.7
+Trade: 562
+Volume: 65258
+Value (mn): 20.01
+=====================================================
+Trading Code: APEXSPINN
+LTP: 134.2
+High: 136.3
+Low: 133.0
+Closep: 134.2
+YCP: 135.4
+Change: -1.2
+Trade: 221
+Volume: 34374
+Value (mn): 4.644
+=====================================================
+Trading Code: APEXTANRY
+LTP: 112.3
+High: 116.5
+Low: 112.0
+Closep: 112.3
+YCP: 116.3
+Change: -4.0
+Trade: 252
+Volume: 31645
+Value (mn): 3.589
+=====================================================
+Trading Code: APOLOISPAT
+LTP: 8.2
+High: 8.2
+Low: 8.2
+Closep: 8.2
+YCP: 8.2
+Change: 0.0
+Trade: 38
+Volume: 65798
+Value (mn): 0.54
+=====================================================
+Trading Code: ARAMIT
+LTP: 267.0
+High: 270.3
+Low: 267.0
+Closep: 267.2
+YCP: 269.4
+Change: -2.4
+Trade: 70
+Volume: 4345
+Value (mn): 1.163
+=====================================================
+Trading Code: ARAMITCEM
+LTP: 26.0
+High: 26.4
+Low: 25.8
+Closep: 26.0
+YCP: 26.0
+Change: 0.0
+Trade: 267
+Volume: 128248
+Value (mn): 3.343
+=====================================================
+Trading Code: ARGONDENIM
+LTP: 19.2
+High: 19.5
+Low: 18.7
+Closep: 19.2
+YCP: 18.8
+Change: 0.4
+Trade: 626
+Volume: 1345841
+Value (mn): 25.773
+=====================================================
+Trading Code: ASIAINS
+LTP: 48.9
+High: 48.9
+Low: 48.9
+Closep: 48.9
+YCP: 48.9
+Change: 0.0
+Trade: 8
+Volume: 6458
+Value (mn): 0.316
+=====================================================
+Trading Code: ASIAPACINS
+LTP: 47.4
+High: 47.8
+Low: 47.0
+Closep: 47.4
+YCP: 47.6
+Change: -0.2
+Trade: 72
+Volume: 44399
+Value (mn): 2.1
+=====================================================
+Trading Code: ATCSLGF
+LTP: 9.7
+High: 9.7
+Low: 9.7
+Closep: 9.7
+YCP: 9.7
+Change: 0.0
+Trade: 1
+Volume: 75
+Value (mn): 0.001
+=====================================================
+Trading Code: ATLASBANG
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 104.2
+YCP: 104.2
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: AZIZPIPES
+LTP: 98.5
+High: 104.0
+Low: 97.5
+Closep: 98.5
+YCP: 101.9
+Change: -3.4
+Trade: 754
+Volume: 126948
+Value (mn): 12.702
+=====================================================
+Trading Code: BANGAS
+LTP: 134.7
+High: 142.0
+Low: 133.1
+Closep: 134.7
+YCP: 138.5
+Change: -3.8
+Trade: 766
+Volume: 114468
+Value (mn): 15.632
+=====================================================
+Trading Code: BANKASIA
+LTP: 20.2
+High: 20.2
+Low: 20.2
+Closep: 20.2
+YCP: 20.2
+Change: 0.0
+Trade: 6
+Volume: 1441
+Value (mn): 0.029
+=====================================================
+Trading Code: BARKAPOWER
+LTP: 21.3
+High: 21.3
+Low: 21.3
+Closep: 21.3
+YCP: 21.3
+Change: 0.0
+Trade: 3
+Volume: 530
+Value (mn): 0.011
+=====================================================
+Trading Code: BATASHOE
+LTP: 1007.5
+High: 1009.0
+Low: 1004.0
+Closep: 1007.5
+YCP: 1011.2
+Change: -3.7
+Trade: 56
+Volume: 3774
+Value (mn): 3.803
+=====================================================
+Trading Code: BATBC
+LTP: 518.7
+High: 518.7
+Low: 518.7
+Closep: 518.7
+YCP: 518.7
+Change: 0.0
+Trade: 42
+Volume: 1729
+Value (mn): 0.897
+=====================================================
+Trading Code: BAYLEASING
+LTP: 23.9
+High: 23.9
+Low: 23.9
+Closep: 23.9
+YCP: 23.9
+Change: 0.0
+Trade: 15
+Volume: 782
+Value (mn): 0.019
+=====================================================
+Trading Code: BBS
+LTP: 22.4
+High: 22.6
+Low: 21.6
+Closep: 22.4
+YCP: 21.6
+Change: 0.8
+Trade: 4223
+Volume: 8621389
+Value (mn): 190.066
+=====================================================
+Trading Code: BBSCABLES
+LTP: 49.9
+High: 49.9
+Low: 49.9
+Closep: 49.9
+YCP: 49.9
+Change: 0.0
+Trade: 23
+Volume: 17112
+Value (mn): 0.854
+=====================================================
+Trading Code: BDAUTOCA
+LTP: 142.6
+High: 149.8
+Low: 142.0
+Closep: 142.6
+YCP: 147.4
+Change: -4.8
+Trade: 809
+Volume: 102929
+Value (mn): 14.893
+=====================================================
+Trading Code: BDCOM
+LTP: 38.0
+High: 38.5
+Low: 37.8
+Closep: 38.0
+YCP: 37.8
+Change: 0.2
+Trade: 725
+Volume: 621245
+Value (mn): 23.66
+=====================================================
+Trading Code: BDFINANCE
+LTP: 44.1
+High: 44.1
+Low: 44.1
+Closep: 44.1
+YCP: 44.1
+Change: 0.0
+Trade: 4
+Volume: 386
+Value (mn): 0.017
+=====================================================
+Trading Code: BDLAMPS
+LTP: 252.2
+High: 252.2
+Low: 252.2
+Closep: 252.2
+YCP: 252.2
+Change: 0.0
+Trade: 5
+Volume: 38
+Value (mn): 0.01
+=====================================================
+Trading Code: BDSERVICE
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 5.2
+YCP: 5.2
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: BDTHAI
+LTP: 15.7
+High: 15.9
+Low: 15.2
+Closep: 15.7
+YCP: 15.2
+Change: 0.5
+Trade: 1185
+Volume: 2497044
+Value (mn): 38.843
+=====================================================
+Trading Code: BDTHAIFOOD
+LTP: 35.1
+High: 35.5
+Low: 34.8
+Closep: 35.1
+YCP: 34.8
+Change: 0.3
+Trade: 1065
+Volume: 784537
+Value (mn): 27.459
+=====================================================
+Trading Code: BDWELDING
+LTP: 23.6
+High: 24.1
+Low: 23.5
+Closep: 23.6
+YCP: 23.9
+Change: -0.3
+Trade: 260
+Volume: 160159
+Value (mn): 3.797
+=====================================================
+Trading Code: BEACHHATCH
+LTP: 43.9
+High: 44.4
+Low: 43.5
+Closep: 43.9
+YCP: 43.9
+Change: 0.0
+Trade: 722
+Volume: 628495
+Value (mn): 27.583
+=====================================================
+Trading Code: BEACONPHAR
+LTP: 245.0
+High: 245.0
+Low: 245.0
+Closep: 245.0
+YCP: 245.0
+Change: 0.0
+Trade: 2
+Volume: 41
+Value (mn): 0.01
+=====================================================
+Trading Code: BENGALWTL
+LTP: 27.3
+High: 27.6
+Low: 26.9
+Closep: 27.3
+YCP: 26.9
+Change: 0.4
+Trade: 471
+Volume: 606616
+Value (mn): 16.544
+=====================================================
+Trading Code: BERGERPBL
+LTP: 1745.3
+High: 1775.0
+Low: 1745.0
+Closep: 1755.8
+YCP: 1752.4
+Change: -7.1
+Trade: 45
+Volume: 704
+Value (mn): 1.236
+=====================================================
+Trading Code: BEXIMCO
+LTP: 115.6
+High: 115.6
+Low: 115.6
+Closep: 115.6
+YCP: 115.6
+Change: 0.0
+Trade: 11
+Volume: 1618
+Value (mn): 0.187
+=====================================================
+Trading Code: BGIC
+LTP: 53.2
+High: 53.9
+Low: 52.1
+Closep: 52.8
+YCP: 53.0
+Change: 0.2
+Trade: 62
+Volume: 21325
+Value (mn): 1.121
+=====================================================
+Trading Code: BIFC
+LTP: 9.5
+High: 9.5
+Low: 9.5
+Closep: 9.5
+YCP: 9.5
+Change: 0.0
+Trade: 8
+Volume: 6920
+Value (mn): 0.066
+=====================================================
+Trading Code: BNICL
+LTP: 56.7
+High: 56.7
+Low: 56.7
+Closep: 56.7
+YCP: 56.7
+Change: 0.0
+Trade: 7
+Volume: 1270
+Value (mn): 0.072
+=====================================================
+Trading Code: BPML
+LTP: 80.4
+High: 82.8
+Low: 80.3
+Closep: 80.4
+YCP: 81.2
+Change: -0.8
+Trade: 1744
+Volume: 793334
+Value (mn): 64.525
+=====================================================
+Trading Code: BPPL
+LTP: 29.3
+High: 29.3
+Low: 29.3
+Closep: 29.3
+YCP: 29.3
+Change: 0.0
+Trade: 6
+Volume: 5166
+Value (mn): 0.151
+=====================================================
+Trading Code: BRACBANK
+LTP: 35.8
+High: 35.8
+Low: 35.8
+Closep: 35.8
+YCP: 35.8
+Change: 0.0
+Trade: 25
+Volume: 7887
+Value (mn): 0.282
+=====================================================
+Trading Code: BSC
+LTP: 122.8
+High: 123.8
+Low: 122.5
+Closep: 122.8
+YCP: 123.0
+Change: -0.2
+Trade: 1305
+Volume: 650023
+Value (mn): 79.851
+=====================================================
+Trading Code: BSCCL
+LTP: 218.9
+High: 218.9
+Low: 218.9
+Closep: 218.9
+YCP: 218.9
+Change: 0.0
+Trade: 5
+Volume: 126
+Value (mn): 0.028
+=====================================================
+Trading Code: BSRMLTD
+LTP: 90.0
+High: 90.0
+Low: 90.0
+Closep: 90.0
+YCP: 90.0
+Change: 0.0
+Trade: 4
+Volume: 550
+Value (mn): 0.05
+=====================================================
+Trading Code: BSRMSTEEL
+LTP: 63.9
+High: 64.2
+Low: 63.9
+Closep: 63.9
+YCP: 63.9
+Change: 0.0
+Trade: 86
+Volume: 22524
+Value (mn): 1.44
+=====================================================
+Trading Code: BXPHARMA
+LTP: 146.2
+High: 146.2
+Low: 146.2
+Closep: 146.2
+YCP: 146.2
+Change: 0.0
+Trade: 9
+Volume: 363
+Value (mn): 0.053
+=====================================================
+Trading Code: BXSYNTH
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 8.4
+YCP: 8.4
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: CAPMBDBLMF
+LTP: 9.9
+High: 10.0
+Low: 9.9
+Closep: 9.9
+YCP: 9.9
+Change: 0.0
+Trade: 297
+Volume: 160167
+Value (mn): 1.586
+=====================================================
+Trading Code: CAPMIBBLMF
+LTP: 13.7
+High: 13.9
+Low: 13.6
+Closep: 13.7
+YCP: 13.7
+Change: 0.0
+Trade: 139
+Volume: 317939
+Value (mn): 4.378
+=====================================================
+Trading Code: CENTRALINS
+LTP: 36.7
+High: 36.9
+Low: 36.6
+Closep: 36.7
+YCP: 36.8
+Change: -0.1
+Trade: 36
+Volume: 23372
+Value (mn): 0.858
+=====================================================
+Trading Code: CENTRALPHL
+LTP: 12.1
+High: 12.4
+Low: 12.0
+Closep: 12.1
+YCP: 12.1
+Change: 0.0
+Trade: 475
+Volume: 1061624
+Value (mn): 12.931
+=====================================================
+Trading Code: CITYBANK
+LTP: 21.4
+High: 21.4
+Low: 21.4
+Closep: 21.4
+YCP: 21.4
+Change: 0.0
+Trade: 9
+Volume: 12496
+Value (mn): 0.267
+=====================================================
+Trading Code: CITYGENINS
+LTP: 47.7
+High: 49.7
+Low: 47.6
+Closep: 47.7
+YCP: 47.8
+Change: -0.1
+Trade: 189
+Volume: 544855
+Value (mn): 26.283
+=====================================================
+Trading Code: CLICL
+LTP: 72.7
+High: 76.8
+Low: 72.1
+Closep: 72.7
+YCP: 75.4
+Change: -2.7
+Trade: 858
+Volume: 294578
+Value (mn): 21.816
+=====================================================
+Trading Code: CNATEX
+LTP: 11.0
+High: 11.0
+Low: 10.2
+Closep: 10.8
+YCP: 10.2
+Change: 0.8
+Trade: 536
+Volume: 1998188
+Value (mn): 21.129
+=====================================================
+Trading Code: CONFIDCEM
+LTP: 89.0
+High: 89.0
+Low: 89.0
+Closep: 89.0
+YCP: 89.0
+Change: 0.0
+Trade: 15
+Volume: 3293
+Value (mn): 0.293
+=====================================================
+Trading Code: CONTININS
+LTP: 31.0
+High: 32.2
+Low: 30.8
+Closep: 31.0
+YCP: 31.5
+Change: -0.5
+Trade: 142
+Volume: 76466
+Value (mn): 2.386
+=====================================================
+Trading Code: COPPERTECH
+LTP: 36.9
+High: 36.9
+Low: 36.9
+Closep: 36.9
+YCP: 36.9
+Change: 0.0
+Trade: 8
+Volume: 4904
+Value (mn): 0.181
+=====================================================
+Trading Code: CROWNCEMNT
+LTP: 74.4
+High: 74.5
+Low: 74.4
+Closep: 74.4
+YCP: 74.4
+Change: 0.0
+Trade: 46
+Volume: 19660
+Value (mn): 1.463
+=====================================================
+Trading Code: CRYSTALINS
+LTP: 43.5
+High: 44.7
+Low: 43.3
+Closep: 43.5
+YCP: 43.4
+Change: 0.1
+Trade: 149
+Volume: 91149
+Value (mn): 3.988
+=====================================================
+Trading Code: CVOPRL
+LTP: 184.5
+High: 193.0
+Low: 183.5
+Closep: 184.5
+YCP: 190.9
+Change: -6.4
+Trade: 2322
+Volume: 350607
+Value (mn): 65.398
+=====================================================
+Trading Code: DACCADYE
+LTP: 17.4
+High: 18.5
+Low: 17.2
+Closep: 17.4
+YCP: 18.0
+Change: -0.6
+Trade: 1982
+Volume: 4224728
+Value (mn): 74.818
+=====================================================
+Trading Code: DAFODILCOM
+LTP: 65.8
+High: 65.8
+Low: 65.8
+Closep: 65.8
+YCP: 65.8
+Change: 0.0
+Trade: 3
+Volume: 105
+Value (mn): 0.007
+=====================================================
+Trading Code: DBH
+LTP: 56.7
+High: 56.7
+Low: 56.7
+Closep: 56.7
+YCP: 56.7
+Change: 0.0
+Trade: 4
+Volume: 517
+Value (mn): 0.029
+=====================================================
+Trading Code: DBH1STMF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 6.9
+YCP: 6.9
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: DELTALIFE
+LTP: 153.9
+High: 158.1
+Low: 147.2
+Closep: 151.9
+YCP: 146.4
+Change: 7.5
+Trade: 2753
+Volume: 1156645
+Value (mn): 177.442
+=====================================================
+Trading Code: DELTASPINN
+LTP: 8.7
+High: 8.8
+Low: 8.5
+Closep: 8.7
+YCP: 8.5
+Change: 0.2
+Trade: 1283
+Volume: 5876842
+Value (mn): 50.469
+=====================================================
+Trading Code: DESCO
+LTP: 36.6
+High: 36.6
+Low: 36.6
+Closep: 36.6
+YCP: 36.6
+Change: 0.0
+Trade: 4
+Volume: 516
+Value (mn): 0.019
+=====================================================
+Trading Code: DESHBANDHU
+LTP: 22.7
+High: 23.5
+Low: 22.6
+Closep: 22.7
+YCP: 22.9
+Change: -0.2
+Trade: 833
+Volume: 1419009
+Value (mn): 32.651
+=====================================================
+Trading Code: DGIC
+LTP: 29.5
+High: 30.5
+Low: 29.2
+Closep: 29.5
+YCP: 29.8
+Change: -0.3
+Trade: 333
+Volume: 203602
+Value (mn): 6.019
+=====================================================
+Trading Code: DHAKABANK
+LTP: 12.5
+High: 12.5
+Low: 12.5
+Closep: 12.5
+YCP: 12.5
+Change: 0.0
+Trade: 18
+Volume: 112663
+Value (mn): 1.408
+=====================================================
+Trading Code: DHAKAINS
+LTP: 54.4
+High: 56.4
+Low: 54.2
+Closep: 54.4
+YCP: 55.7
+Change: -1.3
+Trade: 270
+Volume: 107602
+Value (mn): 5.895
+=====================================================
+Trading Code: DOMINAGE
+LTP: 18.2
+High: 18.2
+Low: 16.6
+Closep: 18.2
+YCP: 16.6
+Change: 1.6
+Trade: 3502
+Volume: 7206995
+Value (mn): 128.125
+=====================================================
+Trading Code: DOREENPWR
+LTP: 61.0
+High: 61.0
+Low: 61.0
+Closep: 61.0
+YCP: 61.0
+Change: 0.0
+Trade: 3
+Volume: 522
+Value (mn): 0.032
+=====================================================
+Trading Code: DSHGARME
+LTP: 121.0
+High: 122.7
+Low: 118.7
+Closep: 120.8
+YCP: 120.8
+Change: 0.2
+Trade: 327
+Volume: 44411
+Value (mn): 5.362
+=====================================================
+Trading Code: DSSL
+LTP: 18.3
+High: 18.6
+Low: 17.0
+Closep: 18.3
+YCP: 17.0
+Change: 1.3
+Trade: 5963
+Volume: 16716355
+Value (mn): 296.384
+=====================================================
+Trading Code: DULAMIACOT
+LTP: 70.8
+High: 70.8
+Low: 70.8
+Closep: 70.8
+YCP: 71.3
+Change: -0.5
+Trade: 41
+Volume: 8200
+Value (mn): 0.581
+=====================================================
+Trading Code: DUTCHBANGL
+LTP: 59.1
+High: 59.8
+Low: 59.1
+Closep: 59.1
+YCP: 59.1
+Change: 0.0
+Trade: 92
+Volume: 62715
+Value (mn): 3.707
+=====================================================
+Trading Code: EASTERNINS
+LTP: 49.0
+High: 49.2
+Low: 48.0
+Closep: 49.0
+YCP: 48.7
+Change: 0.3
+Trade: 212
+Volume: 86756
+Value (mn): 4.195
+=====================================================
+Trading Code: EASTLAND
+LTP: 25.3
+High: 26.0
+Low: 25.3
+Closep: 25.3
+YCP: 25.6
+Change: -0.3
+Trade: 75
+Volume: 57215
+Value (mn): 1.457
+=====================================================
+Trading Code: EASTRNLUB
+LTP: 1795.0
+High: 1840.0
+Low: 1790.0
+Closep: 1795.0
+YCP: 1827.3
+Change: -32.3
+Trade: 440
+Volume: 5664
+Value (mn): 10.275
+=====================================================
+Trading Code: EBL
+LTP: 29.4
+High: 29.4
+Low: 29.4
+Closep: 29.4
+YCP: 29.4
+Change: 0.0
+Trade: 11
+Volume: 3478
+Value (mn): 0.102
+=====================================================
+Trading Code: EBL1STMF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 7.4
+YCP: 7.4
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: EBLNRBMF
+LTP: 6.5
+High: 6.5
+Low: 6.5
+Closep: 6.5
+YCP: 6.5
+Change: 0.0
+Trade: 2
+Volume: 6005
+Value (mn): 0.039
+=====================================================
+Trading Code: ECABLES
+LTP: 193.4
+High: 195.0
+Low: 192.5
+Closep: 193.4
+YCP: 192.7
+Change: 0.7
+Trade: 344
+Volume: 50290
+Value (mn): 9.721
+=====================================================
+Trading Code: EGEN
+LTP: 45.2
+High: 45.2
+Low: 45.2
+Closep: 45.2
+YCP: 45.2
+Change: 0.0
+Trade: 7
+Volume: 1135
+Value (mn): 0.051
+=====================================================
+Trading Code: EHL
+LTP: 100.4
+High: 101.4
+Low: 99.2
+Closep: 100.4
+YCP: 99.3
+Change: 1.1
+Trade: 1547
+Volume: 744950
+Value (mn): 74.562
+=====================================================
+Trading Code: EIL
+LTP: 25.9
+High: 26.4
+Low: 25.8
+Closep: 25.9
+YCP: 26.0
+Change: -0.1
+Trade: 166
+Volume: 85981
+Value (mn): 2.235
+=====================================================
+Trading Code: EMERALDOIL
+LTP: 157.5
+High: 159.0
+Low: 149.7
+Closep: 157.5
+YCP: 149.7
+Change: 7.8
+Trade: 1873
+Volume: 689143
+Value (mn): 107.747
+=====================================================
+Trading Code: ENVOYTEX
+LTP: 43.9
+High: 44.3
+Low: 43.9
+Closep: 43.9
+YCP: 43.9
+Change: 0.0
+Trade: 385
+Volume: 565873
+Value (mn): 24.849
+=====================================================
+Trading Code: EPGL
+LTP: 35.2
+High: 35.4
+Low: 34.9
+Closep: 35.2
+YCP: 34.8
+Change: 0.4
+Trade: 369
+Volume: 384708
+Value (mn): 13.523
+=====================================================
+Trading Code: ESQUIRENIT
+LTP: 34.5
+High: 34.5
+Low: 34.5
+Closep: 34.5
+YCP: 34.5
+Change: 0.0
+Trade: 12
+Volume: 1149
+Value (mn): 0.04
+=====================================================
+Trading Code: ETL
+LTP: 10.8
+High: 11.0
+Low: 10.4
+Closep: 10.8
+YCP: 10.5
+Change: 0.3
+Trade: 1068
+Volume: 2852677
+Value (mn): 30.819
+=====================================================
+Trading Code: EXIM1STMF
+LTP: 5.8
+High: 5.8
+Low: 5.8
+Closep: 5.8
+YCP: 5.8
+Change: 0.0
+Trade: 4
+Volume: 3126
+Value (mn): 0.018
+=====================================================
+Trading Code: EXIMBANK
+LTP: 10.4
+High: 10.4
+Low: 10.4
+Closep: 10.4
+YCP: 10.4
+Change: 0.0
+Trade: 16
+Volume: 8692
+Value (mn): 0.09
+=====================================================
+Trading Code: FAMILYTEX
+LTP: 4.9
+High: 4.9
+Low: 4.9
+Closep: 4.9
+YCP: 4.9
+Change: 0.0
+Trade: 18
+Volume: 26912
+Value (mn): 0.132
+=====================================================
+Trading Code: FARCHEM
+LTP: 11.3
+High: 11.7
+Low: 11.2
+Closep: 11.3
+YCP: 11.2
+Change: 0.1
+Trade: 1127
+Volume: 3688625
+Value (mn): 42.119
+=====================================================
+Trading Code: FAREASTFIN
+LTP: 5.9
+High: 5.9
+Low: 5.9
+Closep: 5.9
+YCP: 5.9
+Change: 0.0
+Trade: 12
+Volume: 17000
+Value (mn): 0.1
+=====================================================
+Trading Code: FAREASTLIF
+LTP: 75.0
+High: 75.0
+Low: 75.0
+Closep: 75.0
+YCP: 75.0
+Change: 0.0
+Trade: 42
+Volume: 17127
+Value (mn): 1.285
+=====================================================
+Trading Code: FASFIN
+LTP: 5.8
+High: 6.1
+Low: 5.7
+Closep: 5.8
+YCP: 5.8
+Change: 0.0
+Trade: 764
+Volume: 3087744
+Value (mn): 18.017
+=====================================================
+Trading Code: FBFIF
+LTP: 5.0
+High: 5.0
+Low: 5.0
+Closep: 5.0
+YCP: 5.0
+Change: 0.0
+Trade: 55
+Volume: 338320
+Value (mn): 1.692
+=====================================================
+Trading Code: FEDERALINS
+LTP: 25.2
+High: 25.9
+Low: 25.2
+Closep: 25.2
+YCP: 25.8
+Change: -0.6
+Trade: 339
+Volume: 149195
+Value (mn): 3.801
+=====================================================
+Trading Code: FEKDIL
+LTP: 19.6
+High: 19.8
+Low: 18.9
+Closep: 19.6
+YCP: 18.8
+Change: 0.8
+Trade: 2166
+Volume: 5900011
+Value (mn): 115.215
+=====================================================
+Trading Code: FINEFOODS
+LTP: 115.3
+High: 118.5
+Low: 114.6
+Closep: 115.3
+YCP: 117.0
+Change: -1.7
+Trade: 764
+Volume: 241203
+Value (mn): 28.111
+=====================================================
+Trading Code: FIRSTFIN
+LTP: 5.5
+High: 5.6
+Low: 5.5
+Closep: 5.5
+YCP: 5.5
+Change: 0.0
+Trade: 142
+Volume: 794730
+Value (mn): 4.38
+=====================================================
+Trading Code: FIRSTSBANK
+LTP: 8.9
+High: 8.9
+Low: 8.9
+Closep: 8.9
+YCP: 8.9
+Change: 0.0
+Trade: 36
+Volume: 30491
+Value (mn): 0.271
+=====================================================
+Trading Code: FORTUNE
+LTP: 75.7
+High: 75.7
+Low: 75.7
+Closep: 75.7
+YCP: 75.7
+Change: 0.0
+Trade: 9
+Volume: 2589
+Value (mn): 0.196
+=====================================================
+Trading Code: FUWANGCER
+LTP: 19.7
+High: 20.3
+Low: 19.2
+Closep: 19.7
+YCP: 19.6
+Change: 0.1
+Trade: 2796
+Volume: 4916004
+Value (mn): 97.51
+=====================================================
+Trading Code: FUWANGFOOD
+LTP: 29.1
+High: 29.1
+Low: 25.7
+Closep: 29.1
+YCP: 26.5
+Change: 2.6
+Trade: 8375
+Volume: 20227460
+Value (mn): 566.052
+=====================================================
+Trading Code: GBBPOWER
+LTP: 15.4
+High: 15.5
+Low: 15.2
+Closep: 15.4
+YCP: 15.2
+Change: 0.2
+Trade: 379
+Volume: 584341
+Value (mn): 8.951
+=====================================================
+Trading Code: GEMINISEA
+LTP: 780.7
+High: 807.0
+Low: 780.0
+Closep: 780.7
+YCP: 796.6
+Change: -15.9
+Trade: 2409
+Volume: 118222
+Value (mn): 92.935
+=====================================================
+Trading Code: GENEXIL
+LTP: 83.7
+High: 84.4
+Low: 83.5
+Closep: 83.7
+YCP: 83.7
+Change: 0.0
+Trade: 1330
+Volume: 830987
+Value (mn): 69.679
+=====================================================
+Trading Code: GENNEXT
+LTP: 6.9
+High: 7.0
+Low: 6.4
+Closep: 6.9
+YCP: 6.4
+Change: 0.5
+Trade: 2445
+Volume: 15899216
+Value (mn): 107.527
+=====================================================
+Trading Code: GHAIL
+LTP: 18.5
+High: 19.2
+Low: 18.3
+Closep: 18.5
+YCP: 18.7
+Change: -0.2
+Trade: 1394
+Volume: 3368449
+Value (mn): 63.199
+=====================================================
+Trading Code: GHCL
+LTP: 35.1
+High: 35.1
+Low: 35.1
+Closep: 35.1
+YCP: 35.1
+Change: 0.0
+Trade: 6
+Volume: 3545
+Value (mn): 0.124
+=====================================================
+Trading Code: GIB
+LTP: 8.6
+High: 8.6
+Low: 8.6
+Closep: 8.6
+YCP: 8.6
+Change: 0.0
+Trade: 55
+Volume: 37761
+Value (mn): 0.325
+=====================================================
+Trading Code: GLDNJMF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 9.0
+YCP: 9.0
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: GLOBALINS
+LTP: 31.1
+High: 31.8
+Low: 30.8
+Closep: 30.9
+YCP: 31.1
+Change: 0.0
+Trade: 335
+Volume: 264205
+Value (mn): 8.205
+=====================================================
+Trading Code: GOLDENSON
+LTP: 18.2
+High: 18.2
+Low: 18.2
+Closep: 18.2
+YCP: 18.2
+Change: 0.0
+Trade: 14
+Volume: 5399
+Value (mn): 0.098
+=====================================================
+Trading Code: GP
+LTP: 286.6
+High: 286.6
+Low: 286.6
+Closep: 286.6
+YCP: 286.6
+Change: 0.0
+Trade: 43
+Volume: 2410
+Value (mn): 0.691
+=====================================================
+Trading Code: GPHISPAT
+LTP: 44.8
+High: 44.8
+Low: 44.8
+Closep: 44.8
+YCP: 44.8
+Change: 0.0
+Trade: 48
+Volume: 32901
+Value (mn): 1.474
+=====================================================
+Trading Code: GQBALLPEN
+LTP: 129.0
+High: 134.8
+Low: 127.0
+Closep: 129.0
+YCP: 132.1
+Change: -3.1
+Trade: 746
+Volume: 156227
+Value (mn): 20.432
+=====================================================
+Trading Code: GRAMEENS2
+LTP: 15.2
+High: 15.2
+Low: 15.2
+Closep: 15.2
+YCP: 15.2
+Change: 0.0
+Trade: 1
+Volume: 5
+Value (mn): 0.0
+=====================================================
+Trading Code: GREENDELMF
+LTP: 6.9
+High: 6.9
+Low: 6.9
+Closep: 6.9
+YCP: 6.9
+Change: 0.0
+Trade: 2
+Volume: 1010
+Value (mn): 0.007
+=====================================================
+Trading Code: GREENDELT
+LTP: 65.1
+High: 65.5
+Low: 65.1
+Closep: 65.1
+YCP: 65.2
+Change: -0.1
+Trade: 52
+Volume: 15610
+Value (mn): 1.017
+=====================================================
+Trading Code: GSPFINANCE
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 30.3
+YCP: 30.3
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: HAKKANIPUL
+LTP: 70.9
+High: 74.9
+Low: 69.8
+Closep: 70.9
+YCP: 69.2
+Change: 1.7
+Trade: 1947
+Volume: 770566
+Value (mn): 55.871
+=====================================================
+Trading Code: HEIDELBCEM
+LTP: 263.0
+High: 263.6
+Low: 258.3
+Closep: 261.2
+YCP: 259.4
+Change: 3.6
+Trade: 394
+Volume: 39999
+Value (mn): 10.419
+=====================================================
+Trading Code: HFL
+LTP: 20.1
+High: 20.4
+Low: 18.8
+Closep: 20.1
+YCP: 18.6
+Change: 1.5
+Trade: 1529
+Volume: 2200922
+Value (mn): 43.162
+=====================================================
+Trading Code: HRTEX
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 115.9
+YCP: 115.9
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: HWAWELLTEX
+LTP: 59.3
+High: 59.8
+Low: 58.2
+Closep: 59.3
+YCP: 58.2
+Change: 1.1
+Trade: 150
+Volume: 77669
+Value (mn): 4.6
+=====================================================
+Trading Code: IBNSINA
+LTP: 286.6
+High: 286.6
+Low: 286.6
+Closep: 286.6
+YCP: 286.6
+Change: 0.0
+Trade: 6
+Volume: 178
+Value (mn): 0.051
+=====================================================
+Trading Code: IBP
+LTP: 18.3
+High: 18.6
+Low: 17.4
+Closep: 18.3
+YCP: 17.3
+Change: 1.0
+Trade: 2759
+Volume: 4044459
+Value (mn): 73.5
+=====================================================
+Trading Code: ICB
+LTP: 87.6
+High: 87.6
+Low: 87.6
+Closep: 87.6
+YCP: 87.6
+Change: 0.0
+Trade: 7
+Volume: 1295
+Value (mn): 0.113
+=====================================================
+Trading Code: ICB3RDNRB
+LTP: 6.5
+High: 6.5
+Low: 6.5
+Closep: 6.5
+YCP: 6.5
+Change: 0.0
+Trade: 2
+Volume: 15007
+Value (mn): 0.098
+=====================================================
+Trading Code: ICBAGRANI1
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 9.2
+YCP: 9.2
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: ICBAMCL2ND
+LTP: 8.7
+High: 8.7
+Low: 8.7
+Closep: 8.7
+YCP: 8.7
+Change: 0.0
+Trade: 2
+Volume: 1090
+Value (mn): 0.009
+=====================================================
+Trading Code: ICBEPMF1S1
+LTP: 7.1
+High: 7.1
+Low: 7.1
+Closep: 7.1
+YCP: 7.1
+Change: 0.0
+Trade: 2
+Volume: 71000
+Value (mn): 0.504
+=====================================================
+Trading Code: ICBIBANK
+LTP: 5.4
+High: 5.4
+Low: 5.4
+Closep: 5.4
+YCP: 5.4
+Change: 0.0
+Trade: 2
+Volume: 940
+Value (mn): 0.005
+=====================================================
+Trading Code: ICBSONALI1
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 7.8
+YCP: 7.8
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: ICICL
+LTP: 33.7
+High: 34.1
+Low: 33.5
+Closep: 33.7
+YCP: 33.5
+Change: 0.2
+Trade: 649
+Volume: 345720
+Value (mn): 11.671
+=====================================================
+Trading Code: IDLC
+LTP: 46.5
+High: 46.5
+Low: 46.5
+Closep: 46.5
+YCP: 46.5
+Change: 0.0
+Trade: 5
+Volume: 807
+Value (mn): 0.038
+=====================================================
+Trading Code: IFADAUTOS
+LTP: 44.1
+High: 44.1
+Low: 44.1
+Closep: 44.1
+YCP: 44.1
+Change: 0.0
+Trade: 7
+Volume: 720
+Value (mn): 0.032
+=====================================================
+Trading Code: IFIC
+LTP: 11.2
+High: 11.2
+Low: 11.2
+Closep: 11.2
+YCP: 11.2
+Change: 0.0
+Trade: 97
+Volume: 68858
+Value (mn): 0.771
+=====================================================
+Trading Code: IFIC1STMF
+LTP: 5.1
+High: 5.1
+Low: 5.1
+Closep: 5.1
+YCP: 5.1
+Change: 0.0
+Trade: 7
+Volume: 3319
+Value (mn): 0.017
+=====================================================
+Trading Code: IFILISLMF1
+LTP: 6.4
+High: 6.4
+Low: 6.4
+Closep: 6.4
+YCP: 6.4
+Change: 0.0
+Trade: 2
+Volume: 1055
+Value (mn): 0.007
+=====================================================
+Trading Code: ILFSL
+LTP: 5.7
+High: 6.1
+Low: 5.6
+Closep: 5.7
+YCP: 5.8
+Change: -0.1
+Trade: 433
+Volume: 1738352
+Value (mn): 10.205
+=====================================================
+Trading Code: IMAMBUTTON
+LTP: 130.5
+High: 139.0
+Low: 128.0
+Closep: 131.0
+YCP: 129.1
+Change: 1.4
+Trade: 513
+Volume: 77199
+Value (mn): 10.256
+=====================================================
+Trading Code: INDEXAGRO
+LTP: 103.6
+High: 103.6
+Low: 103.6
+Closep: 103.6
+YCP: 103.6
+Change: 0.0
+Trade: 4
+Volume: 214
+Value (mn): 0.022
+=====================================================
+Trading Code: INTECH
+LTP: 25.9
+High: 25.9
+Low: 25.3
+Closep: 25.6
+YCP: 25.4
+Change: 0.5
+Trade: 206
+Volume: 86893
+Value (mn): 2.227
+=====================================================
+Trading Code: INTRACO
+LTP: 46.5
+High: 48.4
+Low: 46.3
+Closep: 46.5
+YCP: 47.7
+Change: -1.2
+Trade: 1849
+Volume: 2488939
+Value (mn): 117.303
+=====================================================
+Trading Code: IPDC
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 57.6
+YCP: 57.6
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: ISLAMIBANK
+LTP: 32.6
+High: 32.6
+Low: 32.6
+Closep: 32.6
+YCP: 32.6
+Change: 0.0
+Trade: 9
+Volume: 12640
+Value (mn): 0.412
+=====================================================
+Trading Code: ISLAMICFIN
+LTP: 19.7
+High: 19.7
+Low: 19.7
+Closep: 19.7
+YCP: 19.7
+Change: 0.0
+Trade: 5
+Volume: 3050
+Value (mn): 0.06
+=====================================================
+Trading Code: ISLAMIINS
+LTP: 57.0
+High: 57.9
+Low: 56.1
+Closep: 56.6
+YCP: 57.1
+Change: -0.1
+Trade: 127
+Volume: 143894
+Value (mn): 8.177
+=====================================================
+Trading Code: ISNLTD
+LTP: 55.3
+High: 57.5
+Low: 55.0
+Closep: 55.3
+YCP: 55.0
+Change: 0.3
+Trade: 501
+Volume: 177812
+Value (mn): 9.962
+=====================================================
+Trading Code: ITC
+LTP: 41.1
+High: 41.9
+Low: 40.6
+Closep: 41.1
+YCP: 41.0
+Change: 0.1
+Trade: 927
+Volume: 1183546
+Value (mn): 48.898
+=====================================================
+Trading Code: JAMUNABANK
+LTP: 20.9
+High: 20.9
+Low: 20.9
+Closep: 20.9
+YCP: 20.9
+Change: 0.0
+Trade: 14
+Volume: 7961
+Value (mn): 0.166
+=====================================================
+Trading Code: JAMUNAOIL
+LTP: 177.0
+High: 178.5
+Low: 177.0
+Closep: 177.0
+YCP: 177.1
+Change: -0.1
+Trade: 90
+Volume: 17893
+Value (mn): 3.168
+=====================================================
+Trading Code: JANATAINS
+LTP: 28.3
+High: 29.4
+Low: 28.0
+Closep: 28.2
+YCP: 28.4
+Change: -0.1
+Trade: 107
+Volume: 61657
+Value (mn): 1.733
+=====================================================
+Trading Code: JHRML
+LTP: 81.8
+High: 86.3
+Low: 81.2
+Closep: 81.8
+YCP: 85.6
+Change: -3.8
+Trade: 3450
+Volume: 2033488
+Value (mn): 169.632
+=====================================================
+Trading Code: JMISMDL
+LTP: 255.5
+High: 255.5
+Low: 255.5
+Closep: 255.5
+YCP: 255.5
+Change: 0.0
+Trade: 5
+Volume: 66
+Value (mn): 0.017
+=====================================================
+Trading Code: JUTESPINN
+LTP: 423.8
+High: 428.4
+Low: 414.0
+Closep: 423.8
+YCP: 413.9
+Change: 9.9
+Trade: 191
+Volume: 9378
+Value (mn): 3.96
+=====================================================
+Trading Code: KARNAPHULI
+LTP: 30.0
+High: 30.7
+Low: 29.6
+Closep: 30.0
+YCP: 29.9
+Change: 0.1
+Trade: 229
+Volume: 189439
+Value (mn): 5.661
+=====================================================
+Trading Code: KAY&QUE
+LTP: 228.0
+High: 234.3
+Low: 225.4
+Closep: 228.0
+YCP: 225.6
+Change: 2.4
+Trade: 246
+Volume: 22928
+Value (mn): 5.197
+=====================================================
+Trading Code: KBPPWBIL
+LTP: 27.6
+High: 28.2
+Low: 25.2
+Closep: 27.6
+YCP: 25.9
+Change: 1.7
+Trade: 3924
+Volume: 8195842
+Value (mn): 217.407
+=====================================================
+Trading Code: KDSALTD
+LTP: 77.0
+High: 77.0
+Low: 77.0
+Closep: 77.0
+YCP: 77.0
+Change: 0.0
+Trade: 5
+Volume: 750
+Value (mn): 0.058
+=====================================================
+Trading Code: KEYACOSMET
+LTP: 6.5
+High: 6.8
+Low: 6.5
+Closep: 6.5
+YCP: 6.6
+Change: -0.1
+Trade: 741
+Volume: 3421138
+Value (mn): 22.448
+=====================================================
+Trading Code: KOHINOOR
+LTP: 448.0
+High: 454.2
+Low: 447.2
+Closep: 447.9
+YCP: 454.2
+Change: -6.2
+Trade: 411
+Volume: 52930
+Value (mn): 23.892
+=====================================================
+Trading Code: KPCL
+LTP: 26.6
+High: 26.6
+Low: 26.6
+Closep: 26.6
+YCP: 26.6
+Change: 0.0
+Trade: 5
+Volume: 514
+Value (mn): 0.014
+=====================================================
+Trading Code: KPPL
+LTP: 13.0
+High: 13.9
+Low: 12.8
+Closep: 13.0
+YCP: 13.4
+Change: -0.4
+Trade: 1114
+Volume: 2365864
+Value (mn): 31.008
+=====================================================
+Trading Code: KTL
+LTP: 23.7
+High: 23.7
+Low: 23.7
+Closep: 23.7
+YCP: 23.7
+Change: 0.0
+Trade: 41
+Volume: 52463
+Value (mn): 1.243
+=====================================================
+Trading Code: LANKABAFIN
+LTP: 26.0
+High: 26.0
+Low: 26.0
+Closep: 26.0
+YCP: 26.0
+Change: 0.0
+Trade: 8
+Volume: 6215
+Value (mn): 0.162
+=====================================================
+Trading Code: LEGACYFOOT
+LTP: 103.5
+High: 109.9
+Low: 102.0
+Closep: 103.5
+YCP: 109.2
+Change: -5.7
+Trade: 2270
+Volume: 710586
+Value (mn): 75.186
+=====================================================
+Trading Code: LHBL
+LTP: 68.6
+High: 69.6
+Low: 68.4
+Closep: 68.6
+YCP: 69.0
+Change: -0.4
+Trade: 859
+Volume: 902910
+Value (mn): 62.0
+=====================================================
+Trading Code: LIBRAINFU
+LTP: 671.5
+High: 677.4
+Low: 670.0
+Closep: 671.5
+YCP: 674.3
+Change: -2.8
+Trade: 244
+Volume: 5103
+Value (mn): 3.433
+=====================================================
+Trading Code: LINDEBD
+LTP: 1397.7
+High: 1397.7
+Low: 1397.7
+Closep: 1397.7
+YCP: 1397.7
+Change: 0.0
+Trade: 4
+Volume: 99
+Value (mn): 0.138
+=====================================================
+Trading Code: LOVELLO
+LTP: 37.9
+High: 37.9
+Low: 37.9
+Closep: 37.9
+YCP: 37.9
+Change: 0.0
+Trade: 18
+Volume: 2812
+Value (mn): 0.107
+=====================================================
+Trading Code: LRBDL
+LTP: 35.1
+High: 35.1
+Low: 35.1
+Closep: 35.1
+YCP: 35.1
+Change: 0.0
+Trade: 98
+Volume: 53195
+Value (mn): 1.867
+=====================================================
+Trading Code: LRGLOBMF1
+LTP: 6.4
+High: 6.4
+Low: 6.4
+Closep: 6.4
+YCP: 6.4
+Change: 0.0
+Trade: 4
+Volume: 2210
+Value (mn): 0.014
+=====================================================
+Trading Code: MAKSONSPIN
+LTP: 22.6
+High: 22.8
+Low: 22.3
+Closep: 22.6
+YCP: 22.3
+Change: 0.3
+Trade: 3935
+Volume: 9874922
+Value (mn): 221.043
+=====================================================
+Trading Code: MALEKSPIN
+LTP: 27.1
+High: 27.1
+Low: 27.1
+Closep: 27.1
+YCP: 27.1
+Change: 0.0
+Trade: 1108
+Volume: 2623139
+Value (mn): 71.087
+=====================================================
+Trading Code: MARICO
+LTP: 2421.5
+High: 2421.5
+Low: 2421.5
+Closep: 2421.5
+YCP: 2421.5
+Change: 0.0
+Trade: 19
+Volume: 188
+Value (mn): 0.455
+=====================================================
+Trading Code: MATINSPINN
+LTP: 77.6
+High: 77.6
+Low: 77.6
+Closep: 77.6
+YCP: 77.6
+Change: 0.0
+Trade: 4
+Volume: 780
+Value (mn): 0.061
+=====================================================
+Trading Code: MBL1STMF
+LTP: 6.6
+High: 6.6
+Low: 6.6
+Closep: 6.6
+YCP: 6.6
+Change: 0.0
+Trade: 2
+Volume: 277
+Value (mn): 0.002
+=====================================================
+Trading Code: MEGCONMILK
+LTP: 31.9
+High: 33.1
+Low: 31.7
+Closep: 31.9
+YCP: 32.8
+Change: -0.9
+Trade: 154
+Volume: 73617
+Value (mn): 2.382
+=====================================================
+Trading Code: MEGHNACEM
+LTP: 69.8
+High: 71.7
+Low: 69.4
+Closep: 70.2
+YCP: 70.1
+Change: -0.3
+Trade: 154
+Volume: 39705
+Value (mn): 2.797
+=====================================================
+Trading Code: MEGHNAINS
+LTP: 44.5
+High: 46.7
+Low: 44.1
+Closep: 44.5
+YCP: 44.4
+Change: 0.1
+Trade: 1142
+Volume: 390252
+Value (mn): 17.697
+=====================================================
+Trading Code: MEGHNALIFE
+LTP: 94.1
+High: 99.3
+Low: 93.3
+Closep: 94.1
+YCP: 97.9
+Change: -3.8
+Trade: 2910
+Volume: 1219094
+Value (mn): 117.58
+=====================================================
+Trading Code: MEGHNAPET
+LTP: 42.6
+High: 45.7
+Low: 42.0
+Closep: 42.5
+YCP: 44.7
+Change: -2.1
+Trade: 263
+Volume: 96358
+Value (mn): 4.197
+=====================================================
+Trading Code: MERCANBANK
+LTP: 13.3
+High: 13.3
+Low: 13.3
+Closep: 13.3
+YCP: 13.3
+Change: 0.0
+Trade: 24
+Volume: 42129
+Value (mn): 0.56
+=====================================================
+Trading Code: MERCINS
+LTP: 30.7
+High: 31.0
+Low: 30.3
+Closep: 30.8
+YCP: 30.8
+Change: -0.1
+Trade: 24
+Volume: 8736
+Value (mn): 0.269
+=====================================================
+Trading Code: METROSPIN
+LTP: 39.4
+High: 39.7
+Low: 37.7
+Closep: 39.4
+YCP: 37.8
+Change: 1.6
+Trade: 1402
+Volume: 2566830
+Value (mn): 99.982
+=====================================================
+Trading Code: MHSML
+LTP: 26.5
+High: 26.5
+Low: 26.5
+Closep: 26.5
+YCP: 26.5
+Change: 0.0
+Trade: 80
+Volume: 143701
+Value (mn): 3.808
+=====================================================
+Trading Code: MIDASFIN
+LTP: 12.2
+High: 12.5
+Low: 12.0
+Closep: 12.2
+YCP: 12.4
+Change: -0.2
+Trade: 258
+Volume: 451378
+Value (mn): 5.511
+=====================================================
+Trading Code: MIDLANDBNK
+LTP: 13.2
+High: 13.6
+Low: 13.0
+Closep: 13.2
+YCP: 13.4
+Change: -0.2
+Trade: 584
+Volume: 1980718
+Value (mn): 26.185
+=====================================================
+Trading Code: MIRACLEIND
+LTP: 30.3
+High: 31.0
+Low: 30.2
+Closep: 30.3
+YCP: 30.2
+Change: 0.1
+Trade: 506
+Volume: 427938
+Value (mn): 13.082
+=====================================================
+Trading Code: MIRAKHTER
+LTP: 53.3
+High: 54.2
+Low: 51.8
+Closep: 53.3
+YCP: 52.0
+Change: 1.3
+Trade: 514
+Volume: 245965
+Value (mn): 13.043
+=====================================================
+Trading Code: MITHUNKNIT
+LTP: 15.6
+High: 15.6
+Low: 15.6
+Closep: 15.6
+YCP: 15.6
+Change: 0.0
+Trade: 19
+Volume: 70328
+Value (mn): 1.097
+=====================================================
+Trading Code: MJLBD
+LTP: 86.7
+High: 87.0
+Low: 86.7
+Closep: 86.7
+YCP: 86.7
+Change: 0.0
+Trade: 149
+Volume: 19940
+Value (mn): 1.73
+=====================================================
+Trading Code: MLDYEING
+LTP: 24.8
+High: 24.8
+Low: 24.8
+Closep: 24.8
+YCP: 24.8
+Change: 0.0
+Trade: 5
+Volume: 838
+Value (mn): 0.021
+=====================================================
+Trading Code: MONNOAGML
+LTP: 1000.3
+High: 1038.5
+Low: 991.5
+Closep: 1000.3
+YCP: 1028.0
+Change: -27.7
+Trade: 1381
+Volume: 26679
+Value (mn): 27.137
+=====================================================
+Trading Code: MONNOCERA
+LTP: 107.7
+High: 110.5
+Low: 107.2
+Closep: 107.7
+YCP: 109.5
+Change: -1.8
+Trade: 1252
+Volume: 313975
+Value (mn): 34.069
+=====================================================
+Trading Code: MONNOFABR
+LTP: 24.1
+High: 24.1
+Low: 24.1
+Closep: 24.1
+YCP: 24.1
+Change: 0.0
+Trade: 33
+Volume: 27299
+Value (mn): 0.658
+=====================================================
+Trading Code: MONOSPOOL
+LTP: 281.5
+High: 291.8
+Low: 278.2
+Closep: 281.5
+YCP: 289.7
+Change: -8.2
+Trade: 930
+Volume: 58563
+Value (mn): 16.677
+=====================================================
+Trading Code: MPETROLEUM
+LTP: 200.0
+High: 201.0
+Low: 200.0
+Closep: 200.1
+YCP: 200.8
+Change: -0.8
+Trade: 117
+Volume: 26582
+Value (mn): 5.322
+=====================================================
+Trading Code: MTB
+LTP: 15.6
+High: 15.8
+Low: 15.6
+Closep: 15.7
+YCP: 15.6
+Change: 0.0
+Trade: 25
+Volume: 68252
+Value (mn): 1.071
+=====================================================
+Trading Code: NAHEEACP
+LTP: 65.3
+High: 65.3
+Low: 65.3
+Closep: 65.3
+YCP: 65.3
+Change: 0.0
+Trade: 2
+Volume: 90
+Value (mn): 0.006
+=====================================================
+Trading Code: NATLIFEINS
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 179.0
+YCP: 179.0
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: NAVANACNG
+LTP: 26.7
+High: 26.7
+Low: 25.8
+Closep: 26.7
+YCP: 26.0
+Change: 0.7
+Trade: 253
+Volume: 224012
+Value (mn): 5.954
+=====================================================
+Trading Code: NAVANAPHAR
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 116.0
+YCP: 116.0
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: NBL
+LTP: 8.3
+High: 8.3
+Low: 8.3
+Closep: 8.3
+YCP: 8.3
+Change: 0.0
+Trade: 2
+Volume: 258
+Value (mn): 0.002
+=====================================================
+Trading Code: NCCBANK
+LTP: 13.1
+High: 13.1
+Low: 13.1
+Closep: 13.1
+YCP: 13.1
+Change: 0.0
+Trade: 5
+Volume: 11505
+Value (mn): 0.151
+=====================================================
+Trading Code: NCCBLMF1
+LTP: 6.8
+High: 6.8
+Low: 6.8
+Closep: 6.8
+YCP: 6.8
+Change: 0.0
+Trade: 1
+Volume: 25
+Value (mn): 0.0
+=====================================================
+Trading Code: NEWLINE
+LTP: 45.1
+High: 45.1
+Low: 45.1
+Closep: 45.1
+YCP: 45.1
+Change: 0.0
+Trade: 1
+Volume: 23
+Value (mn): 0.001
+=====================================================
+Trading Code: NFML
+LTP: 18.0
+High: 18.3
+Low: 17.8
+Closep: 18.0
+YCP: 17.8
+Change: 0.2
+Trade: 770
+Volume: 1108169
+Value (mn): 19.969
+=====================================================
+Trading Code: NHFIL
+LTP: 43.1
+High: 44.8
+Low: 42.8
+Closep: 43.1
+YCP: 43.8
+Change: -0.7
+Trade: 1134
+Volume: 931450
+Value (mn): 40.827
+=====================================================
+Trading Code: NITOLINS
+LTP: 38.0
+High: 38.0
+Low: 37.6
+Closep: 37.9
+YCP: 38.0
+Change: 0.0
+Trade: 22
+Volume: 12686
+Value (mn): 0.481
+=====================================================
+Trading Code: NLI1STMF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 0.0
+YCP: 14.4
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: NORTHERN
+LTP: 222.9
+High: 233.9
+Low: 220.0
+Closep: 222.9
+YCP: 230.1
+Change: -7.2
+Trade: 430
+Volume: 20104
+Value (mn): 4.518
+=====================================================
+Trading Code: NORTHRNINS
+LTP: 47.5
+High: 47.5
+Low: 47.3
+Closep: 47.5
+YCP: 47.5
+Change: 0.0
+Trade: 39
+Volume: 10599
+Value (mn): 0.503
+=====================================================
+Trading Code: NPOLYMER
+LTP: 51.0
+High: 51.9
+Low: 51.0
+Closep: 51.0
+YCP: 51.1
+Change: -0.1
+Trade: 766
+Volume: 510720
+Value (mn): 26.149
+=====================================================
+Trading Code: NRBCBANK
+LTP: 16.8
+High: 16.8
+Low: 16.8
+Closep: 16.8
+YCP: 16.8
+Change: 0.0
+Trade: 14
+Volume: 5815
+Value (mn): 0.098
+=====================================================
+Trading Code: NTC
+LTP: 421.0
+High: 432.0
+Low: 419.0
+Closep: 420.7
+YCP: 427.1
+Change: -6.1
+Trade: 118
+Volume: 3190
+Value (mn): 1.348
+=====================================================
+Trading Code: NTLTUBES
+LTP: 83.0
+High: 84.9
+Low: 82.9
+Closep: 83.0
+YCP: 83.6
+Change: -0.6
+Trade: 654
+Volume: 159879
+Value (mn): 13.311
+=====================================================
+Trading Code: NURANI
+LTP: 7.0
+High: 7.0
+Low: 7.0
+Closep: 7.0
+YCP: 7.0
+Change: 0.0
+Trade: 16
+Volume: 27640
+Value (mn): 0.193
+=====================================================
+Trading Code: OAL
+LTP: 16.0
+High: 16.0
+Low: 15.0
+Closep: 16.0
+YCP: 14.6
+Change: 1.4
+Trade: 5488
+Volume: 12019611
+Value (mn): 186.871
+=====================================================
+Trading Code: OIMEX
+LTP: 23.8
+High: 24.3
+Low: 23.7
+Closep: 23.8
+YCP: 23.6
+Change: 0.2
+Trade: 501
+Volume: 524446
+Value (mn): 12.568
+=====================================================
+Trading Code: OLYMPIC
+LTP: 150.4
+High: 151.2
+Low: 149.8
+Closep: 150.5
+YCP: 150.5
+Change: -0.1
+Trade: 714
+Volume: 219317
+Value (mn): 32.966
+=====================================================
+Trading Code: ONEBANKLTD
+LTP: 9.5
+High: 9.5
+Low: 9.5
+Closep: 9.5
+YCP: 9.5
+Change: 0.0
+Trade: 9
+Volume: 3330
+Value (mn): 0.032
+=====================================================
+Trading Code: ORIONINFU
+LTP: 317.9
+High: 332.0
+Low: 316.4
+Closep: 317.9
+YCP: 330.0
+Change: -12.1
+Trade: 1966
+Volume: 164154
+Value (mn): 53.053
+=====================================================
+Trading Code: ORIONPHARM
+LTP: 79.6
+High: 79.6
+Low: 79.6
+Closep: 79.6
+YCP: 79.6
+Change: 0.0
+Trade: 68
+Volume: 13076
+Value (mn): 1.041
+=====================================================
+Trading Code: PADMALIFE
+LTP: 42.0
+High: 43.0
+Low: 41.9
+Closep: 42.0
+YCP: 42.2
+Change: -0.2
+Trade: 344
+Volume: 190325
+Value (mn): 8.052
+=====================================================
+Trading Code: PADMAOIL
+LTP: 209.2
+High: 209.2
+Low: 209.2
+Closep: 209.2
+YCP: 209.2
+Change: 0.0
+Trade: 6
+Volume: 457
+Value (mn): 0.096
+=====================================================
+Trading Code: PAPERPROC
+LTP: 254.2
+High: 267.7
+Low: 249.5
+Closep: 254.2
+YCP: 264.1
+Change: -9.9
+Trade: 2235
+Volume: 292599
+Value (mn): 74.88
+=====================================================
+Trading Code: PARAMOUNT
+LTP: 43.5
+High: 45.8
+Low: 42.9
+Closep: 43.5
+YCP: 44.5
+Change: -1.0
+Trade: 297
+Volume: 183283
+Value (mn): 8.133
+=====================================================
+Trading Code: PDL
+LTP: 10.3
+High: 10.5
+Low: 10.1
+Closep: 10.3
+YCP: 10.1
+Change: 0.2
+Trade: 1048
+Volume: 2789509
+Value (mn): 28.818
+=====================================================
+Trading Code: PENINSULA
+LTP: 27.4
+High: 27.4
+Low: 27.4
+Closep: 27.4
+YCP: 27.4
+Change: 0.0
+Trade: 18
+Volume: 9698
+Value (mn): 0.266
+=====================================================
+Trading Code: PEOPLESINS
+LTP: 31.9
+High: 32.4
+Low: 31.9
+Closep: 31.9
+YCP: 32.0
+Change: -0.1
+Trade: 170
+Volume: 106613
+Value (mn): 3.401
+=====================================================
+Trading Code: PF1STMF
+LTP: 9.9
+High: 10.0
+Low: 9.9
+Closep: 9.9
+YCP: 9.9
+Change: 0.0
+Trade: 43
+Volume: 189290
+Value (mn): 1.875
+=====================================================
+Trading Code: PHARMAID
+LTP: 790.7
+High: 790.7
+Low: 790.7
+Closep: 790.7
+YCP: 790.7
+Change: 0.0
+Trade: 2
+Volume: 39
+Value (mn): 0.031
+=====================================================
+Trading Code: PHENIXINS
+LTP: 33.9
+High: 34.5
+Low: 33.7
+Closep: 33.9
+YCP: 33.9
+Change: 0.0
+Trade: 60
+Volume: 34017
+Value (mn): 1.155
+=====================================================
+Trading Code: PHOENIXFIN
+LTP: 16.3
+High: 16.3
+Low: 16.3
+Closep: 16.3
+YCP: 16.3
+Change: 0.0
+Trade: 4
+Volume: 2695
+Value (mn): 0.044
+=====================================================
+Trading Code: PHPMF1
+LTP: 5.2
+High: 5.2
+Low: 5.2
+Closep: 5.2
+YCP: 5.2
+Change: 0.0
+Trade: 2
+Volume: 2100
+Value (mn): 0.011
+=====================================================
+Trading Code: PIONEERINS
+LTP: 69.2
+High: 71.3
+Low: 69.1
+Closep: 69.2
+YCP: 70.3
+Change: -1.1
+Trade: 240
+Volume: 67223
+Value (mn): 4.674
+=====================================================
+Trading Code: PLFSL
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 3.0
+YCP: 3.0
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: POPULAR1MF
+LTP: 5.1
+High: 5.1
+Low: 5.1
+Closep: 5.1
+YCP: 5.1
+Change: 0.0
+Trade: 7
+Volume: 10405
+Value (mn): 0.053
+=====================================================
+Trading Code: POPULARLIF
+LTP: 76.3
+High: 79.7
+Low: 75.5
+Closep: 76.3
+YCP: 78.2
+Change: -1.9
+Trade: 844
+Volume: 368389
+Value (mn): 28.464
+=====================================================
+Trading Code: POWERGRID
+LTP: 52.4
+High: 52.4
+Low: 52.4
+Closep: 52.4
+YCP: 52.4
+Change: 0.0
+Trade: 2
+Volume: 520
+Value (mn): 0.027
+=====================================================
+Trading Code: PRAGATIINS
+LTP: 60.1
+High: 61.0
+Low: 60.0
+Closep: 60.1
+YCP: 60.2
+Change: -0.1
+Trade: 85
+Volume: 25801
+Value (mn): 1.55
+=====================================================
+Trading Code: PRAGATILIF
+LTP: 120.4
+High: 122.5
+Low: 116.8
+Closep: 120.4
+YCP: 117.4
+Change: 3.0
+Trade: 764
+Volume: 215716
+Value (mn): 25.707
+=====================================================
+Trading Code: PREMIERBAN
+LTP: 12.8
+High: 12.8
+Low: 12.8
+Closep: 12.8
+YCP: 12.8
+Change: 0.0
+Trade: 37
+Volume: 83057
+Value (mn): 1.063
+=====================================================
+Trading Code: PREMIERCEM
+LTP: 55.5
+High: 56.7
+Low: 55.0
+Closep: 55.5
+YCP: 56.3
+Change: -0.8
+Trade: 252
+Volume: 155685
+Value (mn): 8.659
+=====================================================
+Trading Code: PREMIERLEA
+LTP: 7.0
+High: 7.1
+Low: 6.8
+Closep: 6.9
+YCP: 6.9
+Change: 0.1
+Trade: 136
+Volume: 507951
+Value (mn): 3.554
+=====================================================
+Trading Code: PRIME1ICBA
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 7.7
+YCP: 7.7
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: PRIMEBANK
+LTP: 20.2
+High: 20.2
+Low: 19.8
+Closep: 20.2
+YCP: 20.0
+Change: 0.2
+Trade: 58
+Volume: 66176
+Value (mn): 1.33
+=====================================================
+Trading Code: PRIMEFIN
+LTP: 11.6
+High: 12.1
+Low: 11.5
+Closep: 11.6
+YCP: 11.8
+Change: -0.2
+Trade: 698
+Volume: 2547487
+Value (mn): 29.997
+=====================================================
+Trading Code: PRIMEINSUR
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 82.8
+YCP: 82.8
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: PRIMELIFE
+LTP: 75.3
+High: 80.7
+Low: 74.1
+Closep: 75.3
+YCP: 79.2
+Change: -3.9
+Trade: 1814
+Volume: 870654
+Value (mn): 67.661
+=====================================================
+Trading Code: PRIMETEX
+LTP: 31.2
+High: 32.6
+Low: 30.5
+Closep: 31.2
+YCP: 30.3
+Change: 0.9
+Trade: 1235
+Volume: 1003172
+Value (mn): 31.869
+=====================================================
+Trading Code: PROGRESLIF
+LTP: 92.4
+High: 100.4
+Low: 91.1
+Closep: 92.4
+YCP: 100.4
+Change: -8.0
+Trade: 895
+Volume: 222965
+Value (mn): 21.46
+=====================================================
+Trading Code: PROVATIINS
+LTP: 58.9
+High: 58.9
+Low: 58.9
+Closep: 58.9
+YCP: 58.9
+Change: 0.0
+Trade: 6
+Volume: 2203
+Value (mn): 0.13
+=====================================================
+Trading Code: PTL
+LTP: 77.0
+High: 77.0
+Low: 77.0
+Closep: 77.0
+YCP: 77.0
+Change: 0.0
+Trade: 29
+Volume: 9617
+Value (mn): 0.741
+=====================================================
+Trading Code: PUBALIBANK
+LTP: 26.5
+High: 26.5
+Low: 26.3
+Closep: 26.5
+YCP: 26.5
+Change: 0.0
+Trade: 23
+Volume: 1585
+Value (mn): 0.042
+=====================================================
+Trading Code: PURABIGEN
+LTP: 27.4
+High: 28.5
+Low: 27.3
+Closep: 27.4
+YCP: 27.9
+Change: -0.5
+Trade: 321
+Volume: 200847
+Value (mn): 5.558
+=====================================================
+Trading Code: QUASEMIND
+LTP: 58.4
+High: 58.4
+Low: 58.4
+Closep: 58.4
+YCP: 58.4
+Change: 0.0
+Trade: 2
+Volume: 60
+Value (mn): 0.004
+=====================================================
+Trading Code: QUEENSOUTH
+LTP: 24.1
+High: 24.4
+Low: 23.3
+Closep: 24.1
+YCP: 23.3
+Change: 0.8
+Trade: 2178
+Volume: 4343446
+Value (mn): 102.281
+=====================================================
+Trading Code: RAHIMAFOOD
+LTP: 241.7
+High: 249.5
+Low: 240.6
+Closep: 241.7
+YCP: 246.4
+Change: -4.7
+Trade: 1155
+Volume: 143446
+Value (mn): 34.946
+=====================================================
+Trading Code: RAHIMTEXT
+LTP: 143.0
+High: 145.4
+Low: 142.7
+Closep: 144.7
+YCP: 144.2
+Change: -1.2
+Trade: 55
+Volume: 2460
+Value (mn): 0.353
+=====================================================
+Trading Code: RAKCERAMIC
+LTP: 42.9
+High: 42.9
+Low: 42.9
+Closep: 42.9
+YCP: 42.9
+Change: 0.0
+Trade: 11
+Volume: 2976
+Value (mn): 0.128
+=====================================================
+Trading Code: RANFOUNDRY
+LTP: 167.8
+High: 172.0
+Low: 167.8
+Closep: 168.9
+YCP: 167.8
+Change: 0.0
+Trade: 141
+Volume: 22737
+Value (mn): 3.835
+=====================================================
+Trading Code: RDFOOD
+LTP: 51.0
+High: 51.8
+Low: 50.5
+Closep: 51.0
+YCP: 51.3
+Change: -0.3
+Trade: 1002
+Volume: 1639994
+Value (mn): 83.693
+=====================================================
+Trading Code: RECKITTBEN
+LTP: 4807.0
+High: 4826.0
+Low: 4790.0
+Closep: 4806.4
+YCP: 4812.7
+Change: -5.7
+Trade: 101
+Volume: 468
+Value (mn): 2.251
+=====================================================
+Trading Code: REGENTTEX
+LTP: 9.8
+High: 9.8
+Low: 9.8
+Closep: 9.8
+YCP: 9.8
+Change: 0.0
+Trade: 44
+Volume: 22934
+Value (mn): 0.225
+=====================================================
+Trading Code: RELIANCE1
+LTP: 9.9
+High: 10.1
+Low: 9.9
+Closep: 9.9
+YCP: 9.9
+Change: 0.0
+Trade: 60
+Volume: 465373
+Value (mn): 4.609
+=====================================================
+Trading Code: RELIANCINS
+LTP: 59.2
+High: 60.0
+Low: 59.1
+Closep: 59.2
+YCP: 59.8
+Change: -0.6
+Trade: 25
+Volume: 5505
+Value (mn): 0.327
+=====================================================
+Trading Code: RENATA
+LTP: 1217.9
+High: 1217.9
+Low: 1217.9
+Closep: 1217.9
+YCP: 1217.9
+Change: 0.0
+Trade: 7
+Volume: 54
+Value (mn): 0.066
+=====================================================
+Trading Code: RENWICKJA
+LTP: 753.5
+High: 764.0
+Low: 753.1
+Closep: 754.7
+YCP: 762.9
+Change: -9.4
+Trade: 36
+Volume: 587
+Value (mn): 0.443
+=====================================================
+Trading Code: REPUBLIC
+LTP: 33.1
+High: 34.5
+Low: 33.0
+Closep: 33.1
+YCP: 33.3
+Change: -0.2
+Trade: 54
+Volume: 42183
+Value (mn): 1.417
+=====================================================
+Trading Code: RINGSHINE
+LTP: 9.8
+High: 9.8
+Low: 9.8
+Closep: 9.8
+YCP: 9.8
+Change: 0.0
+Trade: 25
+Volume: 38284
+Value (mn): 0.375
+=====================================================
+Trading Code: RNSPIN
+LTP: 6.2
+High: 6.2
+Low: 6.2
+Closep: 6.2
+YCP: 6.2
+Change: 0.0
+Trade: 41
+Volume: 96292
+Value (mn): 0.597
+=====================================================
+Trading Code: ROBI
+LTP: 30.0
+High: 30.0
+Low: 30.0
+Closep: 30.0
+YCP: 30.0
+Change: 0.0
+Trade: 36
+Volume: 9709
+Value (mn): 0.291
+=====================================================
+Trading Code: RSRMSTEEL
+LTP: 20.0
+High: 20.7
+Low: 19.8
+Closep: 20.0
+YCP: 20.2
+Change: -0.2
+Trade: 213
+Volume: 175054
+Value (mn): 3.551
+=====================================================
+Trading Code: RUNNERAUTO
+LTP: 48.4
+High: 48.4
+Low: 48.4
+Closep: 48.4
+YCP: 48.4
+Change: 0.0
+Trade: 2
+Volume: 2200
+Value (mn): 0.106
+=====================================================
+Trading Code: RUPALIBANK
+LTP: 30.4
+High: 30.4
+Low: 29.7
+Closep: 30.4
+YCP: 27.7
+Change: 2.7
+Trade: 667
+Volume: 1897093
+Value (mn): 57.574
+=====================================================
+Trading Code: RUPALIINS
+LTP: 27.7
+High: 28.3
+Low: 27.6
+Closep: 27.7
+YCP: 28.0
+Change: -0.3
+Trade: 126
+Volume: 116912
+Value (mn): 3.263
+=====================================================
+Trading Code: RUPALILIFE
+LTP: 240.5
+High: 253.5
+Low: 233.1
+Closep: 240.5
+YCP: 247.0
+Change: -6.5
+Trade: 2418
+Volume: 620907
+Value (mn): 153.858
+=====================================================
+Trading Code: SAFKOSPINN
+LTP: 21.8
+High: 22.6
+Low: 21.5
+Closep: 21.8
+YCP: 21.3
+Change: 0.5
+Trade: 865
+Volume: 960501
+Value (mn): 21.129
+=====================================================
+Trading Code: SAIFPOWER
+LTP: 29.7
+High: 29.7
+Low: 29.7
+Closep: 29.7
+YCP: 29.7
+Change: 0.0
+Trade: 62
+Volume: 29524
+Value (mn): 0.877
+=====================================================
+Trading Code: SAIHAMCOT
+LTP: 16.5
+High: 16.6
+Low: 16.4
+Closep: 16.5
+YCP: 16.4
+Change: 0.1
+Trade: 856
+Volume: 2092265
+Value (mn): 34.345
+=====================================================
+Trading Code: SAIHAMTEX
+LTP: 18.2
+High: 18.4
+Low: 17.6
+Closep: 18.2
+YCP: 17.6
+Change: 0.6
+Trade: 572
+Volume: 958090
+Value (mn): 17.278
+=====================================================
+Trading Code: SALAMCRST
+LTP: 33.3
+High: 33.3
+Low: 33.3
+Closep: 33.3
+YCP: 33.3
+Change: 0.0
+Trade: 2
+Volume: 600
+Value (mn): 0.02
+=====================================================
+Trading Code: SALVOCHEM
+LTP: 61.8
+High: 61.8
+Low: 61.8
+Closep: 61.8
+YCP: 61.8
+Change: 0.0
+Trade: 1
+Volume: 500
+Value (mn): 0.031
+=====================================================
+Trading Code: SAMATALETH
+LTP: 65.9
+High: 70.0
+Low: 65.5
+Closep: 65.9
+YCP: 67.0
+Change: -1.1
+Trade: 322
+Volume: 68052
+Value (mn): 4.524
+=====================================================
+Trading Code: SAMORITA
+LTP: 75.5
+High: 77.4
+Low: 75.0
+Closep: 75.5
+YCP: 76.2
+Change: -0.7
+Trade: 386
+Volume: 126383
+Value (mn): 9.567
+=====================================================
+Trading Code: SANDHANINS
+LTP: 29.4
+High: 30.5
+Low: 29.2
+Closep: 29.4
+YCP: 30.0
+Change: -0.6
+Trade: 684
+Volume: 490277
+Value (mn): 14.609
+=====================================================
+Trading Code: SAPORTL
+LTP: 28.6
+High: 28.7
+Low: 28.4
+Closep: 28.6
+YCP: 28.4
+Change: 0.2
+Trade: 350
+Volume: 356162
+Value (mn): 10.183
+=====================================================
+Trading Code: SAVAREFR
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 215.5
+YCP: 215.5
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: SBACBANK
+LTP: 10.5
+High: 10.5
+Low: 10.5
+Closep: 10.5
+YCP: 10.5
+Change: 0.0
+Trade: 5
+Volume: 936
+Value (mn): 0.01
+=====================================================
+Trading Code: SEAPEARL
+LTP: 226.2
+High: 235.0
+Low: 224.8
+Closep: 226.2
+YCP: 231.9
+Change: -5.7
+Trade: 4451
+Volume: 1135289
+Value (mn): 262.639
+=====================================================
+Trading Code: SEMLFBSLGF
+LTP: 8.4
+High: 8.4
+Low: 8.4
+Closep: 8.4
+YCP: 8.4
+Change: 0.0
+Trade: 5
+Volume: 725
+Value (mn): 0.006
+=====================================================
+Trading Code: SEMLIBBLSF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 8.5
+YCP: 8.5
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: SEMLLECMF
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 9.1
+YCP: 9.1
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: SHAHJABANK
+LTP: 18.3
+High: 18.3
+Low: 18.3
+Closep: 18.3
+YCP: 18.3
+Change: 0.0
+Trade: 22
+Volume: 12297
+Value (mn): 0.225
+=====================================================
+Trading Code: SHASHADNIM
+LTP: 27.0
+High: 27.0
+Low: 27.0
+Closep: 27.0
+YCP: 27.0
+Change: 0.0
+Trade: 11
+Volume: 8650
+Value (mn): 0.234
+=====================================================
+Trading Code: SHEPHERD
+LTP: 24.0
+High: 24.0
+Low: 24.0
+Closep: 24.0
+YCP: 24.0
+Change: 0.0
+Trade: 29
+Volume: 13212
+Value (mn): 0.317
+=====================================================
+Trading Code: SHURWID
+LTP: 15.8
+High: 16.5
+Low: 15.6
+Closep: 15.8
+YCP: 15.7
+Change: 0.1
+Trade: 343
+Volume: 356006
+Value (mn): 5.684
+=====================================================
+Trading Code: SHYAMPSUG
+LTP: 115.6
+High: 121.0
+Low: 112.1
+Closep: 115.6
+YCP: 119.0
+Change: -3.4
+Trade: 409
+Volume: 53985
+Value (mn): 6.227
+=====================================================
+Trading Code: SIBL
+LTP: 11.7
+High: 11.7
+Low: 11.7
+Closep: 11.7
+YCP: 11.7
+Change: 0.0
+Trade: 4
+Volume: 885
+Value (mn): 0.01
+=====================================================
+Trading Code: SILCOPHL
+LTP: 24.3
+High: 24.7
+Low: 24.2
+Closep: 24.3
+YCP: 24.2
+Change: 0.1
+Trade: 207
+Volume: 386123
+Value (mn): 9.481
+=====================================================
+Trading Code: SILVAPHL
+LTP: 21.6
+High: 21.6
+Low: 21.6
+Closep: 21.6
+YCP: 21.6
+Change: 0.0
+Trade: 26
+Volume: 17356
+Value (mn): 0.375
+=====================================================
+Trading Code: SIMTEX
+LTP: 24.6
+High: 25.4
+Low: 23.9
+Closep: 24.6
+YCP: 23.5
+Change: 1.1
+Trade: 1449
+Volume: 6337685
+Value (mn): 157.213
+=====================================================
+Trading Code: SINGERBD
+LTP: 151.9
+High: 151.9
+Low: 151.9
+Closep: 151.9
+YCP: 151.9
+Change: 0.0
+Trade: 2
+Volume: 150
+Value (mn): 0.023
+=====================================================
+Trading Code: SINOBANGLA
+LTP: 68.3
+High: 70.5
+Low: 68.0
+Closep: 68.3
+YCP: 69.4
+Change: -1.1
+Trade: 811
+Volume: 354530
+Value (mn): 24.467
+=====================================================
+Trading Code: SKICL
+LTP: 47.4
+High: 47.9
+Low: 47.1
+Closep: 47.4
+YCP: 47.4
+Change: 0.0
+Trade: 224
+Volume: 132451
+Value (mn): 6.269
+=====================================================
+Trading Code: SKTRIMS
+LTP: 28.1
+High: 28.8
+Low: 27.8
+Closep: 28.1
+YCP: 28.2
+Change: -0.1
+Trade: 423
+Volume: 550010
+Value (mn): 15.537
+=====================================================
+Trading Code: SONALIANSH
+LTP: 451.4
+High: 455.0
+Low: 442.1
+Closep: 451.4
+YCP: 451.5
+Change: -0.1
+Trade: 1160
+Volume: 40558
+Value (mn): 18.148
+=====================================================
+Trading Code: SONALILIFE
+LTP: 87.5
+High: 93.0
+Low: 86.6
+Closep: 87.5
+YCP: 91.7
+Change: -4.2
+Trade: 1348
+Volume: 588526
+Value (mn): 53.223
+=====================================================
+Trading Code: SONALIPAPR
+LTP: 615.1
+High: 615.1
+Low: 615.1
+Closep: 615.1
+YCP: 615.1
+Change: 0.0
+Trade: 1
+Volume: 15
+Value (mn): 0.009
+=====================================================
+Trading Code: SONARBAINS
+LTP: 50.4
+High: 53.5
+Low: 50.1
+Closep: 50.4
+YCP: 51.0
+Change: -0.6
+Trade: 175
+Volume: 75014
+Value (mn): 3.793
+=====================================================
+Trading Code: SONARGAON
+LTP: 40.5
+High: 43.0
+Low: 39.9
+Closep: 40.5
+YCP: 40.5
+Change: 0.0
+Trade: 1614
+Volume: 1139200
+Value (mn): 47.68
+=====================================================
+Trading Code: SOUTHEASTB
+LTP: 13.3
+High: 13.3
+Low: 13.3
+Closep: 13.3
+YCP: 13.3
+Change: 0.0
+Trade: 5
+Volume: 2990
+Value (mn): 0.04
+=====================================================
+Trading Code: SPCERAMICS
+LTP: 43.0
+High: 43.0
+Low: 43.0
+Closep: 43.0
+YCP: 43.0
+Change: 0.0
+Trade: 7
+Volume: 490
+Value (mn): 0.021
+=====================================================
+Trading Code: SPCL
+LTP: 65.5
+High: 65.5
+Low: 65.5
+Closep: 65.5
+YCP: 65.5
+Change: 0.0
+Trade: 16
+Volume: 7414
+Value (mn): 0.486
+=====================================================
+Trading Code: SQUARETEXT
+LTP: 67.5
+High: 67.5
+Low: 67.5
+Closep: 67.5
+YCP: 67.5
+Change: 0.0
+Trade: 13
+Volume: 2617
+Value (mn): 0.177
+=====================================================
+Trading Code: SQURPHARMA
+LTP: 209.8
+High: 209.8
+Low: 209.8
+Closep: 209.8
+YCP: 209.8
+Change: 0.0
+Trade: 112
+Volume: 13117
+Value (mn): 2.752
+=====================================================
+Trading Code: SSSTEEL
+LTP: 16.6
+High: 16.6
+Low: 16.6
+Closep: 16.6
+YCP: 16.6
+Change: 0.0
+Trade: 60
+Volume: 65648
+Value (mn): 1.09
+=====================================================
+Trading Code: STANCERAM
+LTP: 115.9
+High: 120.5
+Low: 115.0
+Closep: 115.9
+YCP: 118.8
+Change: -2.9
+Trade: 255
+Volume: 28595
+Value (mn): 3.332
+=====================================================
+Trading Code: STANDARINS
+LTP: 43.3
+High: 43.3
+Low: 43.3
+Closep: 43.3
+YCP: 43.3
+Change: 0.0
+Trade: 6
+Volume: 472
+Value (mn): 0.02
+=====================================================
+Trading Code: STANDBANKL
+LTP: 8.7
+High: 8.7
+Low: 8.6
+Closep: 8.7
+YCP: 8.6
+Change: 0.1
+Trade: 43
+Volume: 409175
+Value (mn): 3.546
+=====================================================
+Trading Code: STYLECRAFT
+LTP: 98.1
+High: 100.1
+Low: 97.7
+Closep: 98.1
+YCP: 99.4
+Change: -1.3
+Trade: 619
+Volume: 121846
+Value (mn): 11.983
+=====================================================
+Trading Code: SUMITPOWER
+LTP: 34.0
+High: 34.0
+Low: 34.0
+Closep: 34.0
+YCP: 34.0
+Change: 0.0
+Trade: 10
+Volume: 1070
+Value (mn): 0.036
+=====================================================
+Trading Code: SUNLIFEINS
+LTP: 52.9
+High: 52.9
+Low: 52.9
+Closep: 52.9
+YCP: 52.9
+Change: 0.0
+Trade: 3
+Volume: 355
+Value (mn): 0.019
+=====================================================
+Trading Code: TAKAFULINS
+LTP: 42.1
+High: 42.3
+Low: 42.1
+Closep: 42.1
+YCP: 42.2
+Change: -0.1
+Trade: 26
+Volume: 5797
+Value (mn): 0.244
+=====================================================
+Trading Code: TALLUSPIN
+LTP: 9.9
+High: 9.9
+Low: 9.9
+Closep: 9.9
+YCP: 9.9
+Change: 0.0
+Trade: 135
+Volume: 226613
+Value (mn): 2.243
+=====================================================
+Trading Code: TAMIJTEX
+LTP: 187.4
+High: 194.0
+Low: 186.3
+Closep: 187.4
+YCP: 185.7
+Change: 1.7
+Trade: 567
+Volume: 68027
+Value (mn): 12.883
+=====================================================
+Trading Code: TILIL
+LTP: 68.2
+High: 71.5
+Low: 67.7
+Closep: 68.2
+YCP: 70.5
+Change: -2.3
+Trade: 2977
+Volume: 947459
+Value (mn): 65.824
+=====================================================
+Trading Code: TITASGAS
+LTP: 40.9
+High: 40.9
+Low: 40.9
+Closep: 40.9
+YCP: 40.9
+Change: 0.0
+Trade: 1
+Volume: 129
+Value (mn): 0.005
+=====================================================
+Trading Code: TOSRIFA
+LTP: 30.2
+High: 30.5
+Low: 29.1
+Closep: 30.2
+YCP: 29.4
+Change: 0.8
+Trade: 491
+Volume: 818628
+Value (mn): 24.668
+=====================================================
+Trading Code: TRUSTB1MF
+LTP: 5.6
+High: 5.6
+Low: 5.6
+Closep: 5.6
+YCP: 5.6
+Change: 0.0
+Trade: 4
+Volume: 2565
+Value (mn): 0.014
+=====================================================
+Trading Code: TRUSTBANK
+LTP: 31.7
+High: 31.7
+Low: 31.7
+Closep: 31.7
+YCP: 31.7
+Change: 0.0
+Trade: 4
+Volume: 9814
+Value (mn): 0.311
+=====================================================
+Trading Code: TUNGHAI
+LTP: 5.8
+High: 5.8
+Low: 5.8
+Closep: 5.8
+YCP: 5.8
+Change: 0.0
+Trade: 10
+Volume: 5785
+Value (mn): 0.034
+=====================================================
+Trading Code: UCB
+LTP: 12.4
+High: 12.4
+Low: 12.4
+Closep: 12.4
+YCP: 12.4
+Change: 0.0
+Trade: 7
+Volume: 725
+Value (mn): 0.009
+=====================================================
+Trading Code: UNILEVERCL
+LTP: 2085.5
+High: 2088.0
+Low: 2071.2
+Closep: 2085.5
+YCP: 2084.3
+Change: 1.2
+Trade: 90
+Volume: 1555
+Value (mn): 3.237
+=====================================================
+Trading Code: UNIONBANK
+LTP: 8.9
+High: 8.9
+Low: 8.9
+Closep: 8.9
+YCP: 8.9
+Change: 0.0
+Trade: 15
+Volume: 3156
+Value (mn): 0.028
+=====================================================
+Trading Code: UNIONCAP
+LTP: 10.4
+High: 10.6
+Low: 10.0
+Closep: 10.4
+YCP: 9.9
+Change: 0.5
+Trade: 1262
+Volume: 5507108
+Value (mn): 56.843
+=====================================================
+Trading Code: UNIONINS
+LTP: 56.4
+High: 56.7
+Low: 55.0
+Closep: 56.4
+YCP: 55.4
+Change: 1.0
+Trade: 576
+Volume: 314475
+Value (mn): 17.723
+=====================================================
+Trading Code: UNIQUEHRL
+LTP: 71.0
+High: 73.1
+Low: 70.8
+Closep: 71.0
+YCP: 72.1
+Change: -1.1
+Trade: 1573
+Volume: 951548
+Value (mn): 68.256
+=====================================================
+Trading Code: UNITEDFIN
+LTP: 15.8
+High: 16.0
+Low: 15.8
+Closep: 15.8
+YCP: 15.8
+Change: 0.0
+Trade: 149
+Volume: 363506
+Value (mn): 5.743
+=====================================================
+Trading Code: UNITEDINS
+LTP: 37.9
+High: 38.5
+Low: 37.9
+Closep: 37.9
+YCP: 38.0
+Change: -0.1
+Trade: 25
+Volume: 5578
+Value (mn): 0.211
+=====================================================
+Trading Code: UPGDCL
+LTP: 233.7
+High: 233.7
+Low: 233.7
+Closep: 233.7
+YCP: 233.7
+Change: 0.0
+Trade: 5
+Volume: 246
+Value (mn): 0.057
+=====================================================
+Trading Code: USMANIAGL
+LTP: 57.0
+High: 57.5
+Low: 56.8
+Closep: 57.0
+YCP: 57.5
+Change: -0.5
+Trade: 60
+Volume: 9230
+Value (mn): 0.528
+=====================================================
+Trading Code: UTTARABANK
+LTP: 22.1
+High: 22.2
+Low: 22.0
+Closep: 22.0
+YCP: 22.1
+Change: 0.0
+Trade: 148
+Volume: 286032
+Value (mn): 6.317
+=====================================================
+Trading Code: UTTARAFIN
+LTP: 33.8
+High: 33.9
+Low: 33.8
+Closep: 33.8
+YCP: 33.8
+Change: 0.0
+Trade: 40
+Volume: 39650
+Value (mn): 1.341
+=====================================================
+Trading Code: VAMLBDMF1
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 7.3
+YCP: 7.3
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: VAMLRBBF
+LTP: 7.4
+High: 7.4
+Low: 7.4
+Closep: 7.4
+YCP: 7.4
+Change: 0.0
+Trade: 1
+Volume: 103
+Value (mn): 0.001
+=====================================================
+Trading Code: VFSTDL
+LTP: 22.2
+High: 22.2
+Low: 22.2
+Closep: 22.2
+YCP: 22.2
+Change: 0.0
+Trade: 37
+Volume: 83142
+Value (mn): 1.846
+=====================================================
+Trading Code: WALTONHIL
+LTP: 1047.7
+High: 1047.7
+Low: 1047.7
+Closep: 1047.7
+YCP: 1047.7
+Change: 0.0
+Trade: 5
+Volume: 13
+Value (mn): 0.014
+=====================================================
+Trading Code: WATACHEM
+LTP: 0.0
+High: 0.0
+Low: 0.0
+Closep: 200.2
+YCP: 200.2
+Change: N/A
+Trade: 0
+Volume: 0
+Value (mn): 0.0
+=====================================================
+Trading Code: WMSHIPYARD
+LTP: 11.3
+High: 11.6
+Low: 11.1
+Closep: 11.3
+YCP: 11.1
+Change: 0.2
+Trade: 900
+Volume: 2043281
+Value (mn): 23.154
+=====================================================
+Trading Code: YPL
+LTP: 25.1
+High: 26.6
+Low: 24.9
+Closep: 25.1
+YCP: 25.7
+Change: -0.6
+Trade: 1686
+Volume: 4086604
+Value (mn): 105.086
+=====================================================
+Trading Code: ZAHEENSPIN
+LTP: 11.3
+High: 11.5
+Low: 11.1
+Closep: 11.3
+YCP: 11.2
+Change: 0.1
+Trade: 935
+Volume: 3576449
+Value (mn): 40.438
+=====================================================
+Trading Code: ZAHINTEX
+LTP: 9.1
+High: 9.1
+Low: 9.0
+Closep: 9.1
+YCP: 9.0
+Change: 0.1
+Trade: 548
+Volume: 1657665
+Value (mn): 14.962
+=====================================================
+Trading Code: ZEALBANGLA
+LTP: 140.0
+High: 141.5
+Low: 138.1
+Closep: 139.9
+YCP: 141.7
+Change: -1.7
+Trade: 87
+Volume: 4110
+Value (mn): 0.575
+=====================================================

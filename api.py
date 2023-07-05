@@ -7,13 +7,17 @@ import json
 # and name of the file is date_time.json
 time = datetime.datetime.now()
 filename = time.strftime("%Y%m%d_%H%M%S") + '.json'
-with open(filename, 'a') as outfile:
-    outfile.write('[')
 
 # fetch data from dse website
 url = "https://www.dsebd.org/latest_share_price_scroll_l.php"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
+
+# api info
+latest_update = soup.find('h2', class_='BodyHead topBodyHead')
+
+with open(filename, 'a') as outfile:
+    outfile.write("/* " + latest_update.text + ' */\n\n[')
 
 # parse data
 table = soup.find_all('table', class_='fixedHeader')
