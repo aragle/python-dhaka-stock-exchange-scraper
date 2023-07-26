@@ -17,7 +17,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 latest_update = soup.find('h2', class_='BodyHead topBodyHead')
 
 with open(filename, 'a') as outfile:
-    outfile.write("/* " + latest_update.text + ' */\n\n[')
+    outfile.write("/* " + latest_update.text + ' */\n\n{')
 
 # parse data
 table = soup.find_all('table', class_='fixedHeader')
@@ -61,5 +61,5 @@ for i in range(1, total_rows):
 
 # write to file append with []
 with open(filename, 'a') as outfile:
-    outfile.write(']')
+    outfile.write('}')
 
